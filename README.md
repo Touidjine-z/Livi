@@ -1,6 +1,6 @@
-# 🏥 Rendez-Vous Santé Algérie
+# 🏥 Rendez-Vous Santé 
 
-Une application mobile Flutter pour réserver des rendez-vous avec les médecins en Algérie.
+Une application mobile Flutter pour réserver des rendez-vous avec les médecins.
 
 ## ✨ Fonctionnalités
 
@@ -241,4 +241,4 @@ Ce projet est sous licence MIT. Voir `LICENSE` pour plus de détails.
 
 ---
 
-Développé avec ❤️ pour les patients et médecins algériens.
+Développé avec ❤️ pour les patients et médecins .
