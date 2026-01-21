@@ -222,8 +222,8 @@ Clé API requise pour afficher la carte et les marqueurs.
 ## 📞 Support
 
 Pour toute question ou problème, contactez:
-- Email: support@rendezvousante.dz
-- Issues: [GitHub Issues](https://github.com/yourrepo/issues)
+- Email: /
+- Issues: /
 
 ## 📄 Licence
 
