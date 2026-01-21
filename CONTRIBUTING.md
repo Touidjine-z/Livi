@@ -1,6 +1,6 @@
 # 🤝 Guide de Contribution
 
-Merci de contribuer à **Rendez-Vous Santé Algérie** ! 🎉
+Merci de contribuer à **Rendez-Vous Santé ** ! 🎉
 
 ## Code de Conduite
 
@@ -219,11 +219,6 @@ try {
 - [ ] Protection des données sensibles
 - [ ] HTTPS pour API calls
 
-## Questions ?
-
-- 📧 Email: dev@rendezvousante.dz
-- 💬 Discord: discord.gg/rendezvousante
-- 📝 Issues: github.com/rendezvousante/issues
 
 ---
 
